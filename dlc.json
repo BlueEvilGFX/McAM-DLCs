@@ -11,5 +11,12 @@
     "creator" : "Grandpa Evil",
     "description" : "a random d",
     "type" : "assets"
+    },
+  
+    "New" : 
+    {
+    "creator" : "Grandpa Evil",
+    "description" : "a random new",
+    "type" : "assets"
     }
 }
