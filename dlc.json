@@ -4,5 +4,11 @@
   "version" : "[0, 1, 0]",
   "description" : "a random dlc",
   "content" : "presets"
+  },
+  {
+  "name" : "test2",
+  "version" : "[0, 1, 5]",
+  "description" : "a random d",
+  "content" : "assets"
   }
 ]
