@@ -1,4 +1,13 @@
 import bpy, os
+
+#   creating all directories needed for the dlc
+def setup():
+    main_path = os.path.dirname(os.path.realpath(__file__))
+    files_path = os.path.join(main_path, "preset_wip")
+    if not os.path.exists(files_path):
+        os.mkdir(files_path)
+setup()
+
 from bpy.types import PropertyGroup
 from bpy.props import EnumProperty
 from ....utils import utils
