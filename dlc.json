@@ -1,22 +1,3 @@
-{
-  "preset_helper" : 
-    {
-    "creator" : "Grandpa Evil",
-    "description" : "a random dlc",
-    "type" : "presets"
-    },
-
-    "TheKronisDLC" : 
-    {
-    "creator" : "Grandpa Evil",
-    "description" : "a random d",
-    "type" : "assets"
-    },
-  
-    "New" : 
-    {
-    "creator" : "Grandpa Evil",
-    "description" : "a random new",
-    "type" : "assets"
-    }
-}
+[
+  "preset_helper"
+]
