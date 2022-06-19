@@ -18,6 +18,7 @@ This asset collection contains multiple different swords.
 You can change the texture with the int property under item : properties.
 
 You can check out the creator here: [Discord](https://discord.gg/Pvt2KneRNQ) | [YouTube](https://www.youtube.com/channel/UCgm0fyoER5KC8mGVjfXJWDw)
+<br clear="both"/>
 
 ## World Importer
 <img src="./visuals/world_importer_1">
