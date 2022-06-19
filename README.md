@@ -1,7 +1,7 @@
 # McAM-DLCs
 ## Table Of Contents
 - [Preset Helper](https://github.com/BlueEvilGFX/McAM-DLCs/edit/dev/README.md#preset-helper)
-- [Preset Helper](https://github.com/BlueEvilGFX/McAM-DLCs/edit/dev/README.md#nfx-swords-[1])
+- [NFX Swords [1]](https://github.com/BlueEvilGFX/McAM-DLCs/edit/dev/README.md#nfx-swords-[1])
 
 
 ---
