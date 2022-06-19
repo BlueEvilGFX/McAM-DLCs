@@ -1,8 +1,6 @@
 # McAM-DLCs
-  
-- ## [Preset Helper](preset-helper)
-- ## [NFX Swords [1]](nfx-swords-[1])
-  
+- Preset Helper
+- NFX Swords [1]
   
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
