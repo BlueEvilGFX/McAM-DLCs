@@ -21,6 +21,6 @@ You can check out the creator here: [Discord](https://discord.gg/Pvt2KneRNQ) | [
 <br clear="both"/>
 
 ## World Importer
-<img src="./visuals/world_importer_1">
-<img align="right" width=45% height=45% src="./visuals/world_importer_2">
+<img align="right" width=40% height=40% src="./visuals/world_importer_2.png">
+<img align="right" src="./visuals/world_importer_1.png">
 The World Importer DLC makes it easy to import .obj world files into blender. It allows to prep the materials as well - settings can be seen in the screenshot.
