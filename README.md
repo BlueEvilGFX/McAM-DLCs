@@ -5,7 +5,7 @@
   
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
-The Preset Helper DLC makes creating presets easier and will help you managing them in a _work in progress_ folder of the addon. It provides more operators which will make extruding hair much easier.
+The Preset Helper DLC makes creating presets easier and will help you managing them in a *work in progress* folder of the addon. It provides more operators which will make extruding hair much easier.
 
 You can open unfinished presets, make new ones, mark unfinished ones as finished and remove preset files. The addon also gives you the possibility to add the subdivision and solidify modifier to the selected objects. This comes in handy especially when making hair of the Minecraft character.
 <br clear="both"/>
