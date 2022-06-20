@@ -1,6 +1,6 @@
 # McAM-DLCs
 * [Preset Helper](#preset-helper)
-* [NFX Swords [1]](#nfx-swords-[1])
+* [NFX Swords](#nfx-swords-[1])
 * [World Importer](#world-importer)
   
 ## Preset Helper
