@@ -1,7 +1,7 @@
 # McAM-DLCs
-- Preset Helper
-- NFX Swords [1]
-- world importer
+* [Preset Helper](#-preset-helper)
+* [NFX Swords [1]](#-nfx-swords-[1])
+* [World Importer](#-world-importer)
   
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
@@ -17,10 +17,11 @@ This asset collection contains multiple different swords.
 
 You can change the texture with the int property under item : properties.
 
-You can check out the creator here: [Discord](https://discord.gg/Pvt2KneRNQ) | [YouTube](https://www.youtube.com/channel/UCgm0fyoER5KC8mGVjfXJWDw)
+You can check out the creator here: [Discord](https://discord.gg/Pvt2KneRNQ) | [YouTube](https://www.youtube.com/channel/UCgm0fyoER5KC8mGVjfXJWDw) | [Twitter](https://twitter.com/NightGFX_)
 <br clear="both"/>
 
 ## World Importer
 <img align="right" width=40% height=40% src="./visuals/world_importer_2.png">
 <img align="right" src="./visuals/world_importer_1.png">
 The World Importer DLC makes it easy to import .obj world files into blender. It allows to prep the materials as well - settings can be seen in the screenshot.
+<br clear="both"/>
