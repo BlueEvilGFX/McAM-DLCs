@@ -2,7 +2,7 @@
 * [Preset Helper](#preset-helper)
 * [NFX Swords [1]](#nfx-swords-1)
 * [World Importer](#world-importer)
-* [Wan Xi's Assets](#wan-xi's-assets)
+* [Wan Xi's Assets](#wan-xis-assets)
   
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
@@ -27,5 +27,5 @@ You can check out the creator here: [Discord](https://discord.gg/Pvt2KneRNQ) | [
 The World Importer DLC makes it easy to import .obj world files into blender. It allows to prep the materials as well - settings can be seen in the screenshot.
 <br clear="both"/>
 
-## Wan Xi's Assets
+## Wan Xis Assets
 This DLC contains many Wan Xi public assets available on his discord server.
