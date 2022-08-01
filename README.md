@@ -2,7 +2,7 @@
 * [Preset Helper](#preset-helper)
 * [NFX Swords [1]](#nfx-swords-1)
 * [World Importer](#world-importer)
-* [Wan Xi's Assets](wan-xi's-assets)
+* [Wan Xi's Assets](#wan-xi's-assets)
   
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
