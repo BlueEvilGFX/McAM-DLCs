@@ -1,5 +1,4 @@
-# McAM-DLCs
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub all releases](https://img.shields.io/github/downloads/BlueEvilGFX/Mc-Assets-Manager/total)
+# McAM-DLCs [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub all releases](https://img.shields.io/github/downloads/BlueEvilGFX/Mc-Assets-Manager/total)
 * [Preset Helper](#preset-helper)
 * [NFX Swords [1]](#nfx-swords-1)
 * [World Importer](#world-importer)
