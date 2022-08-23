@@ -1,6 +1,6 @@
 # McAM-DLCs [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 * [Preset Helper](#preset-helper)
-* [NFX Swords [1]](#nfx-swords-1)
+* [NFX Swords](#nfx-swords)
 * [World Importer](#world-importer)
 * [Wan Xi's Assets](#wan-xis-assets)
   
@@ -11,7 +11,7 @@ The Preset Helper DLC makes creating presets easier and will help you managing t
 You can open unfinished presets, make new ones, mark unfinished ones as finished and remove preset files. The addon also gives you the possibility to add the subdivision and solidify modifier to the selected objects. This comes in handy especially when making hair of the Minecraft character.
 <br clear="both"/>
 
-## NFX Swords [1]
+## NFX Swords
 <img src="./visuals/NFX_Swords_[1]_1.png">
 <img align="right" width=45% height=45% src="./visuals/NFX_Swords_[1]_2.png">
 This asset collection contains multiple different swords.
