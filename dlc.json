@@ -1,5 +1,7 @@
 [
   "NFX_Swords",
   "WanXis_Assets",
-  "default_items"
+  "default_items",
+  "world_importer",
+  "preset_helper"
 ]
