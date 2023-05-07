@@ -1,9 +1,14 @@
 # McAM-DLCs [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+* [Default Items] (#default-items)
 * [Preset Helper](#preset-helper)
 * [NFX Swords](#nfx-swords)
 * [World Importer](#world-importer)
 * [Wan Xi's Assets](#wan-xis-assets)
-  
+
+## Default Items
+This DLC contains a few default Minecraft items.
+<br clear="both"/>
+
 ## Preset Helper
 <img align="right" src="./visuals/preset_helper.png">
 The Preset Helper DLC makes creating presets easier and will help you managing them in a <em>work in progress</em> folder of the addon. It provides more operators which will make extruding hair much easier.
