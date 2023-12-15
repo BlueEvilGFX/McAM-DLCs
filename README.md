@@ -1,5 +1,7 @@
 <img src="./visuals/banner.png">
 
+![GitHub all releases](https://img.shields.io/github/downloads/BlueEvilGFX/McAM-DLCs/total)
+
 # McAM-DLCs [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 * [Default Items](#default-items)
 * [Preset Helper](#preset-helper)
