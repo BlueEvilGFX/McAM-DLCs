@@ -6,7 +6,6 @@
 * [NFX Swords](#nfx-swords)
 * [World Importer](#world-importer)
 * [Wan Xi's Assets](#wan-xis-assets)
-* 
 
 ## Default Items
 This DLC contains a few default Minecraft items.
