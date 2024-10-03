@@ -6,8 +6,7 @@
 * [NFX Swords](#nfx-swords)
 * [World Importer](#world-importer)
 * [Wan Xi's Assets](#wan-xis-assets)
-* [Thomas Rig Edit Legacy Alpha](#thomas-rig-edit-legacy-alpha)
-
+* 
 
 ## Default Items
 This DLC contains a few default Minecraft items.
@@ -38,9 +37,4 @@ The World Importer DLC makes it easy to import .obj world files into blender. It
 
 ## Wan Xis Assets
 This DLC contains many Wan Xi public assets available on his discord server.
-<br clear="both"/>
-
-## Thomas Rig Edit Legacy Alpha
-<img align="left" src="./visuals/thomas_rig_legacy_alpha_title.png" height = 40% width = 40%>
-<p>The Thomas Rig Edit Legacy is the third iteration of the rig edit. It is in development and public in its alpha state. If and when is finished is unknown.</p>
 <br clear="both"/>
